@@ -29,7 +29,7 @@
     }
   },
   "packages": {
-    "framework-arduinoespressif32": {
+    "framework-arduinoespressif32-jason2866": {
       "type": "framework",
       "optional": true,
       "owner": "tasmota",

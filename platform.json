@@ -1,5 +1,5 @@
 {
-  "name": "espressif32",
+  "name": "espressif32-jason2866",
   "title": "Espressif 32",
   "description": "Espressif Systems is a privately held fabless semiconductor company. They provide wireless communications and Wi-Fi chips which are widely used in mobile devices and the Internet of Things applications.",
   "homepage": "https://espressif.com/",
@@ -35,7 +35,7 @@
       "owner": "tasmota",
       "version": "https://github.com/Jason2866/esp32-arduino-lib-builder/releases/download/0511-1939-5.3_orig/framework-arduinoespressif32-release_v5.3_orig-437dd308.tar.xz"
     },
-    "framework-espidf": {
+    "framework-espidf-tasmota": {
       "type": "framework",
       "optional": true,
       "owner": "tasmota",
